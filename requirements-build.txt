@@ -1,0 +1,2 @@
+# Supplies native Arrow/Parquet headers and shared libraries. No Python in engine.
+pyarrow==21.0.0

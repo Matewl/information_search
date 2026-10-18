@@ -1,0 +1,3 @@
+# Независимая Python-реализация для проверки Snowball C и результатов поиска.
+-r requirements-build.txt
+snowballstemmer==3.0.1

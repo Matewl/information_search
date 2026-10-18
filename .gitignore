@@ -1,0 +1,6 @@
+.venv/
+build/
+indexes/
+fineweb-edu/
+__pycache__/
+*.tmp
